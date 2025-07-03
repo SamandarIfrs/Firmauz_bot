@@ -22,7 +22,7 @@
 1. `.env` faylga quyidagini yozing:
 
 
-# 🤖 Firmauz_bot
+# 🤖 https://t.me/Firmauz_bot
 
 > Telegram orqali firmalarning soliq hisobotlarini avtomatlashtiruvchi **aiogram** asosidagi bot.  
 > Dasturlash tili: **Python 3.10.0**, asosiy kutubxona: `aiogram==2.25.1`  
